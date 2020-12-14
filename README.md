@@ -1,5 +1,3 @@
-# ts-uni-mini
-
 ## Project setup
 
 ```
